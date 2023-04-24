@@ -1,5 +1,5 @@
 
-import 'package:wheather/domain/model/weaher.dart';
+import 'package:wheather/domain/model/weather.dart';
 
 import '../api/model/api_weather.dart';
 

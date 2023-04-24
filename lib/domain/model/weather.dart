@@ -5,7 +5,7 @@ class Weather{
 
   Weather({
      required this.temperature,
-    required this.description,
-    required this.wind
+     required this.description,
+     required this.wind
   });
 }
